@@ -94,3 +94,10 @@ Eine spezialisierte Lösung hilft, alle Abschläge, Zahlungen und Einbehalte zen
 Abschlagsrechnungen sind ein zentrales Werkzeug im Bau, um Liquidität zu sichern und Projekte sauber abzurechnen. Wer hier den Überblick verliert, riskiert finanzielle Engpässe und unnötige Fehler.
 
 Wenn du deine Abschlagsrechnungen, Zahlungen und Einbehalte effizient organisieren möchtest, kannst du eine spezialisierte [Software für Abschlagsrechnungen im Bau – AbschlagPro](https://abschlagpro.com/de) nutzen.
+
+
+## Weitere hilfreiche Inhalte
+
+- Abschlagsrechnung im Bau erklärt: https://gicbus2026.github.io/abschlagsrechnung-bau/
+- Abschlagsrechnung erstellen: https://gicbus2026.github.io/abschlagsrechnung-erstellen/
+- Bau Rechnung Vorlage: https://gicbus2026.github.io/bau-rechnung-vorlage/
